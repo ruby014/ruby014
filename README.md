@@ -2,8 +2,8 @@
 
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/acb2b155-0966-44da-9cec-b509882b1072" />
 
-💻 I'm Software Developer Intern @ **Dayforce** and will be returning to school for my last semester in January 2027
-💼 Currently looking for full-time Software Developer roles starting April 2027! 
+- 💻 I'm Software Developer Intern @ **Dayforce** and will be returning to school for my last semester in January 2027
+- 💼 Currently looking for full-time Software Developer roles starting April 2027! 
 
 ### 🧑‍💻 A little about me
 
